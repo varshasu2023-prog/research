@@ -1,3 +1,7 @@
+import streamlit as st
+groq_bec_api_key = st.secrets["GROQ_BEC_API_KEY"]
+tavily_api_key = st.secrets["TAVILY_API_KEY"]
+
 import os
 import streamlit as st
 from typing import Annotated, TypedDict, List, Dict
