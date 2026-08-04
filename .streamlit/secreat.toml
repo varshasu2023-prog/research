@@ -1,1 +1,2 @@
-
+GROQ_BEC_API_KEY="your_groq_key"
+TAVILY_API_KEY="your_tavily_key"
